@@ -20,6 +20,21 @@
 
 > Client code is private. A live demo is available on request.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td width="50%"><b>Moudix ERP</b>: factory dashboard<br><img src="screenshots/moudix.png" alt="Moudix ERP dashboard"></td>
+    <td width="50%"><b>Laxent ERP</b>: sales & payments dashboard<br><img src="screenshots/laxent.png" alt="Laxent ERP dashboard"></td>
+  </tr>
+  <tr>
+    <td width="50%"><b>Factory HR & Payroll</b>: monthly payroll run<br><img src="screenshots/hr-payroll.png" alt="HR payroll run"></td>
+    <td width="50%"><b>Cesro Flow</b>: cheques & bills follow-up<br><img src="screenshots/cesro-flow.png" alt="Cesro Flow cheques list"></td>
+  </tr>
+</table>
+
+<sub>All screenshots use demo data; no real client data is shown.</sub>
+
 ## Built with
 
 TypeScript · Next.js · Node.js · PostgreSQL · Prisma · Tailwind CSS
